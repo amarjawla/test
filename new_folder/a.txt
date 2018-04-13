@@ -1,2 +1,1 @@
-hello in amardeep, changes done for merging
-a file abc
+master file
